@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there I'm Faruk 👋
 
 <!--
 **faruksedik/faruksedik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 6
 -->
-**Results-driven professional** with expertise in **Python**, **SQL**, and **data analysis**, complemented by a strong foundation in **Mechanical Engineering** and **Agricultural and Environmental Engineering**. 
+**A Results-driven professional** with expertise in **Python**, **SQL**, and **data analysis**, complemented by a strong foundation in **Mechanical Engineering** and **Agricultural and Environmental Engineering**. 
 
 Currently teaching **Physics, Chemistry, and Further Mathematics**, while transitioning into **data engineering** and exploring **backend development**.
 
