@@ -5,11 +5,28 @@
 
 6
 -->
-**A Results-driven professional** with expertise in **Python**, **SQL**, and **data analysis**, complemented by a strong foundation in **Mechanical Engineering** and **Agricultural and Environmental Engineering**. 
+## 🚀 Data Engineer | Python • SQL • AWS • ETL Pipelines
 
-Currently teaching **Physics, Chemistry, and Further Mathematics**, while transitioning into **data engineering** and exploring **backend development**.
+Results-driven Data Engineering professional with hands-on experience building **cloud-based data pipelines, ETL workflows, and scalable data systems**.
 
-Adept at **problem-solving**, **data management**, and **technology-driven solutions**, with a passion for **optimizing processes** and enhancing **efficiency through data-driven decision-making**.
+I specialize in transforming raw data into reliable, production-ready datasets using **Python, SQL, and AWS services**. My work focuses on designing efficient data workflows, optimizing database performance, and implementing structured data architectures.
 
-Actively building skills in **backend systems**, APIs, and scalable applications to bridge the gap between data and robust software solutions.
+### 🔧 Core Competencies
+- ETL / ELT Pipeline Development  
+- Workflow Orchestration (Apache Airflow)  
+- AWS (S3, EC2, RDS, IAM)  
+- Data Modeling & Warehousing  
+- SQL Query Optimization & Indexing  
+- Infrastructure as Code (Terraform - foundational)
 
+### 🏗 What I’m Currently Building
+- Production-grade Airflow pipelines on AWS  
+- Cloud-native data architectures  
+- Backend-integrated data systems  
+- Scalable and modular data processing frameworks  
+
+With a strong foundation in Mechanical Engineering and Agricultural & Environmental Engineering, I bring analytical depth, systems thinking, and structured problem-solving to data engineering challenges.
+
+I am actively seeking opportunities to contribute to data-driven teams where I can design, build, and optimize reliable data infrastructure.
+
+📫 Let’s connect and build scalable data solutions.
