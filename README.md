@@ -15,16 +15,12 @@ I specialize in transforming raw data into reliable, production-ready datasets u
 - ETL / ELT Pipeline Development  
 - Workflow Orchestration (Apache Airflow)  
 - AWS (S3, EC2, RDS, IAM)  
-- Data Modeling & Warehousing  
-- SQL Query Optimization & Indexing  
 - Infrastructure as Code (Terraform - foundational)
 
 ### 🏗 What I’m Currently Building
 - Production-grade Airflow pipelines on AWS  
-- Cloud-native data architectures  
-- Backend-integrated data systems  
-- Scalable and modular data processing frameworks  
-
+- Cloud-native data architectures
+  
 With a strong foundation in Mechanical Engineering and Agricultural & Environmental Engineering, I bring analytical depth, systems thinking, and structured problem-solving to data engineering challenges.
 
 I am actively seeking opportunities to contribute to data-driven teams where I can design, build, and optimize reliable data infrastructure.
